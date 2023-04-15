@@ -1,0 +1,13 @@
+AddInstructor Ahmed AlAmri, 102020, 320101200000, M, PhD, Software Engineering, Jeddah, true
+AddInstructor Ahmed AlAmri, 102020, 320101200000, M, PhD, Software Engineering, Jeddah, true
+AddStudent Waleed Almozaini, 190099,635720400000, M,FCIT,CS, Bachelor, 5, Makkah Road Jeddah
+AddStudent Waleed Almozaini, 190099,635720400000, M,FCIT,CS, Bachelor, 5, Makkah Road Jeddah
+AddCourse CPCS222, Discrete Structure, 969656400000, 980197200000, 12:30,1:45, 3, C , 25
+AddTrainingSession Python Programming, 980283600000, 982962000000, 6:00,9:00, none 
+AddTrainingSession Advance Programming, 980283600000, 982875600000, 5:00,9:00, java, python
+AssignInstructor 102020, AdvPro9802836000005.0, DisStr96965640000012.3, PytPro9802836000006.0
+RegisterStudent 190099, DisStr96965640000012.3, PytPro9802836000006.0, AdvPro9802836000005.0
+PrintSchedule 190099
+PrintSchedule 190000
+PrintSortSessions
+Quit

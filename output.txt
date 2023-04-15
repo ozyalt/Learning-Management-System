@@ -1,0 +1,36 @@
+--------------- Welcome to Learning Management System (LMS) ---------------
+The instructor is successfully added.
+The instructor is registered already, the ID is found in the system.
+The student is successfully added.
+The student is registered already, the ID is found in the system.
+The course is successfully added.
+The training session is successfully added.
+The training session is successfully added.
+
+
+------------------------- Schedule Details ------------------------
+ Students ID: 190099
+ Student Name: Waleed Almozaini
+ Student Level: 5
+ ------------------------------------------------------------------
+ Online Session   Type   Starting Date     Ending Date       Time
+ CPCS222          Course        Sat Sep 23 00:00:00 AST 2000    Tue Jan 23 00:00:00 AST 2001   12.3 - 1.45
+ Python Programming        Training       Wed Jan 24 00:00:00 AST 2001   Sat Feb 24 00:00:00 AST 2001   6.0 - 9.0
+ Advance Programming        Training       Wed Jan 24 00:00:00 AST 2001   Fri Feb 23 00:00:00 AST 2001   5.0 - 9.0
+ ------------------------------------------------------------------
+ Number of Courses: 1
+ Remaining courses: 5
+ Number of training Session: 2
+ ------------------------------------------------------------------
+
+student does not exist
+------------------------------------------- Sessions Sorted by Date -----------
+
+ Session Name                ID        Starting Dates  time      Instructor   
+
+ -----------------------------------------------------------------------------
+
+ Python Programming  PytPro9802836000006.0   Wed Jan 24 00:00:00 AST 2001    6:0 - 9:0   Ahmed AlAmri
+
+ Advance Programming AdvPro9802836000005.0   Wed Jan 24 00:00:00 AST 2001    5:0 - 9:0   Ahmed AlAmri
+
